@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web design and IOT
 - 🌱 I’m currently learning python but i know scratch and mBlok too
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me in telegram : @Colour_of_moon...and with my emai
 - ⚡ Fun fact: I don't like listen to the music
 
 <!---

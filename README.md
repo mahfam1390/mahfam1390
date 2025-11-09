@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahfam...but if it's hard for you, just call me moon
+- 👋 Hi, I’m Mahfam... Just call me Moon
 - 👀 I’m interested in Introductory python, Machine Lerning and Web Dsign
 - 🌱 I’m currently learning python
 <!---
